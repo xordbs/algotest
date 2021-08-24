@@ -7,13 +7,12 @@ import java.util.StringTokenizer;
 
 public class Main_BOJ_14888_연산자끼워넣기_인주비 {
 	/**
-	 124ms 
+	 * 124ms
 	 */
-	
+
 	static int N;
 	static int[] input;
 	static int[] ops;
-	static int[] pickOps; // 선택된 선택자
 	static int max, min;
 
 	public static void main(String[] args) throws IOException {
@@ -21,7 +20,6 @@ public class Main_BOJ_14888_연산자끼워넣기_인주비 {
 		N = Integer.parseInt(br.readLine());
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 		input = new int[N];
-
 
 		for (int i = 0; i < N; i++) {
 			input[i] = Integer.parseInt(st.nextToken());
@@ -32,16 +30,16 @@ public class Main_BOJ_14888_연산자끼워넣기_인주비 {
 		for (int i = 0; i < 4; i++) {
 			ops[i] = Integer.parseInt(st.nextToken());
 		}
-		pickOps = new int[N - 1];
 		max = Integer.MIN_VALUE;
 		min = Integer.MAX_VALUE;
-		
+
 		pick(0, input[0]);
-		
+
 		System.out.println(max);
 		System.out.println(min);
 	}
 
+	// 선택자를 선택한다. 선택할 때마다 calculate 함수로 현재 cnt와 연산자 종류, 현재까지의 연산결과를 넘겨준다
 	public static void pick(int cnt, int res) {
 		if (cnt == N - 1) {
 			max = Math.max(max, res);
