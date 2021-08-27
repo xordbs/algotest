@@ -1,13 +1,20 @@
 # 서울 9반 알고리즘 스터디
 
+### 4주차 (08.25)
+#### IM대비, DFS/BFS
+- [ ] [SWEA 1859. 백만장자 프로젝트]
+- [ ] [SWEA 1315. 오목판정]
+- [ ] [SWEA 4047. 영준이의 카드 카운팅]
+
+------------------
 
 ### 3주차 (08.18~)
 ##### 완전탐색, 그리디, 분할정복
-- [ ] [10815. 숫자카드 - 실버4](https://www.acmicpc.net/problem/10815)
-- [ ] [10819. 차이를 최대로 - 실버2](https://www.acmicpc.net/problem/10819)
-- [ ] [5369. 이진 검색 트리 - 실버1](https://www.acmicpc.net/problem/5639)
-- [ ] [14888. 연산자 끼워넣기 - 실버1](https://www.acmicpc.net/problem/14888)
-- [ ] [2448. 별 찍기 - 11 - 골드5](https://www.acmicpc.net/problem/2448)
+- [X] [10815. 숫자카드 - 실버4](https://www.acmicpc.net/problem/10815)
+- [X] [10819. 차이를 최대로 - 실버2](https://www.acmicpc.net/problem/10819)
+- [X] [5369. 이진 검색 트리 - 실버1](https://www.acmicpc.net/problem/5639)
+- [X] [14888. 연산자 끼워넣기 - 실버1](https://www.acmicpc.net/problem/14888)
+- [X] [2448. 별 찍기 - 11 - 골드5](https://www.acmicpc.net/problem/2448)
 
 ------------------
 
