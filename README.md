@@ -2,9 +2,9 @@
 
 ### 4주차 (08.25)
 ##### IM대비, DFS/BFS
-- [ ] [SWEA 1859. 백만장자 프로젝트]
-- [ ] [SWEA 1315. 오목판정]
-- [ ] [SWEA 4047. 영준이의 카드 카운팅]
+- [ ] [SWEA 1859. 백만장자 프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=1859&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&)
+- [ ] [SWEA 11315. 오목판정](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXaSUPYqPYMDFASQ&categoryId=AXaSUPYqPYMDFASQ&categoryType=CODE&problemTitle=1315&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+- [ ] [SWEA 4047. 영준이의 카드 카운팅](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIsY84KEPMDFAWN&categoryId=AWIsY84KEPMDFAWN&categoryType=CODE&problemTitle=4047&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 
 ------------------
 
