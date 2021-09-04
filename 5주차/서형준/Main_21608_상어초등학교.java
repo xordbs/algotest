@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_21608_상어초등학교 {	// 172ms
+public class Main_21608_상어초등학교 {	// 자바 11 : 172ms / 자바 8 : 116ms
 	static int[][] arr;
 	static int[][] sub;
 	static int[] seq;
