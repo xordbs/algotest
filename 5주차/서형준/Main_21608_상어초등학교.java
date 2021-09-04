@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_21608_상어초등학교 {
+public class Main_21608_상어초등학교 {	// 예제, 반례까지 다 찾아서 했는데 틀렸습니다.
 	static int[][] arr;
 	static int[][] sub;
 	static int[] seq;
