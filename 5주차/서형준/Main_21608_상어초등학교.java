@@ -2,9 +2,10 @@ package BAEKJOON;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main_21608_상어초등학교 {	// 예제, 반례까지 다 찾아서 했는데 틀렸습니다.
+public class Main_21608_상어초등학교 {	// 172ms
 	static int[][] arr;
 	static int[][] sub;
 	static int[] seq;
@@ -33,6 +34,9 @@ public class Main_21608_상어초등학교 {	// 예제, 반례까지 다 찾아�
 			find(seq[i]);	// 학생순서대로 자리 앉히기 시작
 		}
 		
+//		for (int i = 0; i < N; i++) {
+//			System.out.println(Arrays.toString(arr[i]));
+//		}
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				int like = 0;	// 좋아하는 학생수
@@ -97,9 +101,15 @@ public class Main_21608_상어초등학교 {	// 예제, 반례까지 다 찾아�
 		int c = 0;	// n학생 자리
 		int mlike = 0;	// n 학생이 좋아하는 학생 최대숫자
 		int mnon = 0;	// n 학생 주변 최대 빈자리
+		int cnt = 0;	// 처음만난 빈자리
 		for (int i = 0; i < N; i++) {	// 자리 탐색
 			for (int j = 0; j < N; j++) {
 				if (arr[i][j] == 0) {
+					if(cnt==0) {	// 빈자리 여러자리인데 주변환경이 같다면 제일 첫번째 자리로 앉힘
+						r=i;
+						c=j;
+						cnt++;
+					}
 					int like = 0;	// 현재자리 좋아하는 학생수
 					int non = 0;	// 현재자리 주변 빈자리
 					if ((i - 1) >= 0) {	// 상
@@ -160,13 +170,6 @@ public class Main_21608_상어초등학교 {	// 예제, 반례까지 다 찾아�
 						c = j;
 						mlike = like;
 						mnon = non;
-					} else if (mlike == 0 && mnon < non) {	// 좋아하는 학생은 없고 빈자리만 많은경우
-						r = i;
-						c = j;
-						mnon = non;
-					} else if(n == seq[N2-1]) {		// 마지막 남은자리인 경우
-						r = i;
-						c = j;
 					}
 				}
 			}
