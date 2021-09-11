@@ -6,7 +6,7 @@
 - [ ] [21609. 상어 초등학교](https://www.acmicpc.net/problem/21608) - 실버1
 - [ ] [16236. 아기 상어](https://www.acmicpc.net/problem/16236) - 골드4
 - [ ] [7576. 토마토](https://www.acmicpc.net/problem/7576) - 실버1
-- [ ] [2794. 가로세로 퍼즐](acmicpc.net/problem/2784) - 실버3
+- [ ] [2794. 가로세로 퍼즐](https://www.acmicpc.net/problem/2784) - 실버3
 - [ ] [4963. 섬의 개수](https://www.acmicpc.net/problem/4963) - 실버2
 - [ ] [2210. 숫자판 점프](https://www.acmicpc.net/problem/2210) - 실버2
 
