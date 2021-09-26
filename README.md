@@ -1,11 +1,24 @@
 # 서울 9반 알고리즘 스터디
 
+### 9주차 (09.26~)
+##### DP
+- [ ] [2579. 계단 오르기](https://www.acmicpc.net/problem/2579) - 실버3
+- [ ] [11726. 2Xn 타일링](https://www.acmicpc.net/problem/11726) - 실버3
+- [ ] [1912. 연속합](https://www.acmicpc.net/problem/1912) - 실버2
+- [ ] [10844. 쉬운 계단 수](https://www.acmicpc.net/problem/10844) - 실버1
+- [ ] [2156. 포도주 시식](https://www.acmicpc.net/problem/2156) - 실버1
+
+------------------
+### 8주차 (추석 연휴)
+
+------------------
+
 ### 7주차 (09.12~)
 - [ ] [1347. 미로 만들기](https://www.acmicpc.net/problem/1347) - 실버4
 - [ ] [7569. 토마토](https://www.acmicpc.net/problem/7569) - 실버1
 - [ ] [1597. 숨바꼭질](https://www.acmicpc.net/problem/1697) - 실버1
 - [ ] [2110. 공유기 설치](https://www.acmicpc.net/problem/2110) - 실버1
-- [ ] [2636. 치즈](https://www.acmicpc.net/problem/2636) - 골드5
+- [X] [2636. 치즈](https://www.acmicpc.net/problem/2636) - 골드5
 
 -----------------
 
