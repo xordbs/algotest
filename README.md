@@ -1,5 +1,15 @@
 # 서울 9반 알고리즘 스터디
 
+### 9주차 (10.3~)
+##### 삼성 Ad 기출, DP
+- [ ] [2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667) - 실버1
+- [ ] [15686. 치킨 배달](https://www.acmicpc.net/problem/15686) - 골드5
+- [ ] [15684. 사다리 조작](https://www.acmicpc.net/problem/15684) - 골드4
+- [ ] [1520. 내리막 길](https://www.acmicpc.net/problem/1520) - 골드4
+- [ ] [1915. 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) - 골드4
+
+-----------------
+
 ### 9주차 (09.26~)
 ##### DP
 - [ ] [2579. 계단 오르기](https://www.acmicpc.net/problem/2579) - 실버3
