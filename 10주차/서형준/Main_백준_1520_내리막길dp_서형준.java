@@ -3,7 +3,7 @@ package BAEKJOON;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+//java11 380ms
 public class Main_백준_1520_내리막길dp_서형준 { // 단순 dfs 16%까지 통과 그 이후 시간초과 >> dp 배열을 만들어서 해당 위치에서 갈수있는방법을 저장해놓음
 	static int R,C;	// 행 열 크기
 	static int[][] arr,dp;	// 지도배열 , 해당위치에서 끝까지 가는 방법 저장하는 배열
