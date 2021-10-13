@@ -1,12 +1,22 @@
 # 서울 9반 알고리즘 스터디
 
-### 10주차 (10.3~)
+### 11주차 (10.10~)
+##### 삼성 역량테스트 A형 기출
+- [ ] [17471. 게리맨더링](https://www.acmicpc.net/problem/17471) - 골드5
+- [ ] [14500. 테트로미노](https://www.acmicpc.net/problem/14500) - 골드5
+- [ ] [17070. 파이프 옮기기 1](https://www.acmicpc.net/problem/17070) - 골드5
+- [ ] [16235. 나무 재테크](https://www.acmicpc.net/problem/16235) - 골드4
+- [ ] [17281. ⚾](https://www.acmicpc.net/problem/17281) - 골드4
+
+-----------------
+
+### 10주차 (10.03~)
 ##### 삼성 Ad 기출, DP
-- [ ] [2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667) - 실버1
-- [ ] [15686. 치킨 배달](https://www.acmicpc.net/problem/15686) - 골드5
-- [ ] [15684. 사다리 조작](https://www.acmicpc.net/problem/15684) - 골드4
-- [ ] [1520. 내리막 길](https://www.acmicpc.net/problem/1520) - 골드4
-- [ ] [1915. 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) - 골드4
+- [X] [2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667) - 실버1
+- [X] [15686. 치킨 배달](https://www.acmicpc.net/problem/15686) - 골드5
+- [X] [15684. 사다리 조작](https://www.acmicpc.net/problem/15684) - 골드4
+- [X] [1520. 내리막 길](https://www.acmicpc.net/problem/1520) - 골드4
+- [X] [1915. 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) - 골드4
 
 -----------------
 
