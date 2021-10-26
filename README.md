@@ -1,5 +1,14 @@
 # 서울 9반 알고리즘 스터디
 
+### 12주차 (10.24~)
+- [ ] [17136. 색종이 붙이기](https://www.acmicpc.net/problem/17136) - 골드2
+- [ ] [2661. 좋은수열](https://www.acmicpc.net/problem/2661) - 골드4
+- [ ] [1986. 체스](https://www.acmicpc.net/problem/1986) - 실버1
+- [ ] [15683. 감시](https://www.acmicpc.net/problem/15683) - 골드5
+- [ ] [2310. 어드벤처 게임](https://www.acmicpc.net/problem/2310) - 실버2
+
+-----------------
+
 ### 11주차 (10.10~)
 ##### 삼성 역량테스트 A형 기출
 - [ ] [17471. 게리맨더링](https://www.acmicpc.net/problem/17471) - 골드5
