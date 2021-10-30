@@ -19,7 +19,7 @@ public class Main_BOJ_2661_좋은수열 {
 		System.out.println(ans);
 	}
 
-	public static boolean dfs(String str) {
+	private static boolean dfs(String str) {
 		if (str.length() == N) { // 문자열의 길이가 입력 받은 크기 n과 같다면 종료
 			ans = str; // 순서가 1,2,3으로 되기 때문에 가장 먼저 자리를 차지하고 온게 가장 작은 수이다.
 			return true;
