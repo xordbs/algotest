@@ -1,10 +1,19 @@
 # 서울 9반 알고리즘 스터디
 
+### 13주차 (10.31~) 
+- [ ] [2644. 촌수 계산](https://www.acmicpc.net/problem/2644) - 실버2
+- [ ] [2468. 안전 영역](https://www.acmicpc.net/problem/2468) - 실버1
+- [ ] [2251. 물통](https://www.acmicpc.net/problem/2251) - 실버1
+- [ ] [14719. 빗물](https://www.acmicpc.net/problem/14719) - 골드5
+- [ ] [14891. 톱니바퀴](https://www.acmicpc.net/problem/14891) - 골드5
+
+-----------------
+
 ### 12주차 (10.24~)
 - [ ] [17136. 색종이 붙이기](https://www.acmicpc.net/problem/17136) - 골드2
-- [ ] [2661. 좋은수열](https://www.acmicpc.net/problem/2661) - 골드4
-- [ ] [1986. 체스](https://www.acmicpc.net/problem/1986) - 실버1
-- [ ] [15683. 감시](https://www.acmicpc.net/problem/15683) - 골드5
+- [X] [2661. 좋은수열](https://www.acmicpc.net/problem/2661) - 골드4
+- [X] [1986. 체스](https://www.acmicpc.net/problem/1986) - 실버1
+- [X] [15683. 감시](https://www.acmicpc.net/problem/15683) - 골드5
 - [ ] [2310. 어드벤처 게임](https://www.acmicpc.net/problem/2310) - 실버2
 
 -----------------
