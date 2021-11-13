@@ -1,5 +1,14 @@
 # 서울 9반 알고리즘 스터디
 
+### 14주차 (11.10~)
+- [ ] [2583. 영역 구하기](https://www.acmicpc.net/problem/2583) - 실버1
+- [ ] [2178. 미로 탐색](https://www.acmicpc.net/problem/2178) - 실버1
+- [ ] [2302. 극장 좌석](https://www.acmicpc.net/problem/2302) - 실버1
+- [ ] [2116. 주사위 쌓기](https://www.acmicpc.net/problem/2116) - 골드5
+- [ ] [2668. 숫자 고르기](https://www.acmicpc.net/problem/2668) - 골드5
+
+-----------------
+
 ### 13주차 (10.31~) 
 - [ ] [2644. 촌수 계산](https://www.acmicpc.net/problem/2644) - 실버2
 - [ ] [2468. 안전 영역](https://www.acmicpc.net/problem/2468) - 실버1
