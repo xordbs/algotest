@@ -4,7 +4,7 @@
 - [ ] [15685. 드래곤 커브](https://www.acmicpc.net/problem/15685) - 골드4
 - [ ] [16637. 괄호 추가하기](https://www.acmicpc.net/problem/16637) - 골드3
 - [ ] [2206. 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) - 골드4
-- [ ] [11052. 카드 구매하기](https://www.acmicpc.net/problem/2206) - 실버1
+- [ ] [11052. 카드 구매하기](https://www.acmicpc.net/problem/11052) - 실버1
 - [ ] [2240. 자두나무](https://www.acmicpc.net/problem/2240) - 골드5
 
 -----------------
